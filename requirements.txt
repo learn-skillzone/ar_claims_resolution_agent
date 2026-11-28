@@ -1,0 +1,23 @@
+# Core UI & Visualization
+streamlit>=1.38.0
+pandas>=2.2.0
+plotly>=5.22.0
+
+# Multi-Agent Orchestration & LLM Integration
+langgraph>=0.2.0
+langchain>=0.3.0
+langchain-core>=0.3.0
+langchain-openai>=0.2.0
+pydantic>=2.7.0
+python-dotenv>=1.0.1
+
+# Model Context Protocol (MCP)
+mcp>=2.0.0
+
+# Vector Store & Local Embeddings
+chromadb>=0.5.0
+
+# Document Ingestion & Local OCR
+pypdf>=4.2.0
+pillow>=10.3.0
+rapidocr-onnxruntime

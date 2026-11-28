@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<InvoiceClaim>
+    <Header>
+        <InvoiceNumber>INV-2026-1043</InvoiceNumber>
+        <SupplierID>SUP-102</SupplierID>
+        <PONumber>PO-45002</PONumber>
+        <InvoiceDate>2026-11-27</InvoiceDate>
+    </Header>
+    <LineItems>
+        <Item>
+            <SKU>SKU-GF10</SKU>
+            <Quantity>200</Quantity>
+            <UnitPrice>35.00</UnitPrice>
+        </Item>
+    </LineItems>
+</InvoiceClaim>

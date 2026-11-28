@@ -1,0 +1,7 @@
+SUPPLIER INVOICE / CLAIM NOTICE
+Supplier ID: SUP-103
+Supplier Name: Metro Packaging & Logistics
+Invoice Number: INV-2026-799
+PO Reference: PO-45003
+Line 1: SKU-MP50 | Qty: 500 | Unit Price: $14.00 | Total: $7,000.00
+Note: Includes raw material paperboard surcharge.
